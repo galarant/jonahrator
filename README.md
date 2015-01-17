@@ -11,7 +11,13 @@ The Jonah Peretti Quote Generator
   $ pip install -r requirements.txt
   ```
 
-2. Globally install bower, browserify and watchify:
+2. Initialize Django apps:
+
+  ```
+  $ ./manage.py syncdb
+  ```
+
+3. Globally install bower, browserify and watchify:
 
   ```
   $ npm install -g bower browserify watchify
