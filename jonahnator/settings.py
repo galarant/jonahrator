@@ -9,8 +9,6 @@ ALLOWED_HOSTS = []
 
 
 INSTALLED_APPS = (
-    'django.contrib.admin',
-    'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
@@ -47,4 +45,5 @@ USE_L10N = True
 
 STATIC_URL = '/static/'
 TEMPLATE_DIRS = (os.path.join(BASE_DIR, 'frontend/app'),)
-STATICFILES_DIRS = (os.path.join(BASE_DIR, 'frontend/dist'),)
+STATICFILES_DIRS = (os.path.join(BASE_DIR, 'frontend/dist'),
+                    os.path.join(BASE_DIR, 'frontend/styles'),)

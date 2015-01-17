@@ -4,15 +4,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="description" content="The Jonahrator">
+    <link rel="stylesheet" href="/static/home.css">
     <title>The Jonahrator</title>
     <script type="text/javascript" src="static/main-built.js" defer></script>
   </head>
 
   <body ng-controller="HomeCtrl as home">
-    <span ng-bind="home.testMessage"></span>
+    <span class="quote" ng-bind="home.quote"></span>
 
     <form ng-submit="home.getQuote()">
-      <button type="submit">New Quote</button>
+      <button class="btn" type="submit">New Quote</button>
     </form>
 
   </body>
