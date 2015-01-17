@@ -15,6 +15,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'jonahnator',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -45,4 +46,4 @@ USE_I18N = True
 USE_L10N = True
 
 STATIC_URL = '/static/'
-TEMPLATE_DIRS = (os.path.join(BASE_DIR, 'jonahnator/templates'))
+TEMPLATE_DIRS = (os.path.join(BASE_DIR, 'frontend/app'))
