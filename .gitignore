@@ -63,3 +63,6 @@ frontend/bower_components
 
 # Built assets
 frontend/dist/
+
+# Polly's bullshit which should be in a database
+markov_scores
