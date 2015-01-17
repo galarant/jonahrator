@@ -1,18 +1,20 @@
 <!doctype html>
 
-<html lang="en">
+<html ng-app="Jonahrator" lang="en">
   <head>
     <meta charset="utf-8">
-
-    <title>The Jonahnator</title>
-    <meta name="description" content="The Jonahnator">
-
+    <meta name="description" content="The Jonahrator">
+    <title>The Jonahrator</title>
     <script type="text/javascript" src="static/main-built.js" defer></script>
-
   </head>
 
-  <body>
-    We’re all teenage girls a little bit.
+  <body ng-controller="HomeCtrl as home">
+    <span ng-bind="home.testMessage"></span>
+
+    <form ng-submit="home.getQuote()">
+      <button type="submit">New Quote</button>
+    </form>
+
   </body>
 
 </html>
