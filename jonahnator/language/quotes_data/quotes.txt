@@ -22,7 +22,7 @@ Contrast indie rock to hip-hop where it's like, You don't sell out, you blow up.
 When there's a Coke, there's always room for a Pepsi.
 Did you know that the Stegosaurus lived further away from the Tyrannosaurus Rex than we are from the Tyrannosaurus Rex in time?
 We just think that humans are complex people that like to laugh sometimes, that like to gossip sometimes, that like to know what's going on in the world.
-You can say, My site will only publish serious stuff, but the New York Times is going to be right in that (Facebook) news feed next to the cute kittens, and that's where people are going to see it.
+You can say, My site will only publish serious stuff, but the New York Times is going to be right in that Facebook news feed next to the cute kittens, and that's where people are going to see it.
 They're gonna all be mashed together.
 So our thesis is, why don't we do that at the source, as the publisher.
 Sometimes we use this metaphor of the Paris cafe.
@@ -46,7 +46,7 @@ A lot of web companies will take a short-term approach and sell to an incumbent 
 BuzzFeed started as a lab with a small team where we would play with ideas.
 I did parallel entrepreneurship, which was very hard to do.
 It was hard to keep your head straight and know which ideas were with which company.
-Mormons know that it's not enough to practise your religion - you also have to spread your religion.
+Mormons know that it's not enough to practice your religion - you also have to spread your religion.
 I think a lot about how ideas spread, how information spreads, why is it that something you're really proud of and you spend a lot of time creating sometimes doesn't go anywhere, and something that you kind of do on the side, on a lark, ends up getting shared and passed around and having this big impact.
 I think the best content on BuzzFeed is something you share with someone else in your life, and it connects you to them.
 And that's a big part of what e-mail's about as well.
@@ -204,3 +204,60 @@ And then we also have all of the monetization that is part of YouTube, which is 
 We don't really have plans to do any print.
 Three years ago we were a cat site, an internet meme site.
 So a lot has changed in three years.
+How can I take you seriously when you have this list and this quiz?
+And that's something to aspire to for the Web.
+Important content.
+We are a global media company for the social age.
+We don't want to make content for Twitter or Facebook.
+We want to make content for the people on Twitter or Facebook
+They're not concerned about our success?
+I don't think they need to suffer in order for us to succeed.
+We kind of accidentally discovered SEO.
+We didn't get any search traffic, or very little.
+We realized as the site started to grow that we needed to add categories beyond politics.
+What we quickly realized was that people only went to the front page.
+So we started taking the best quotes and articles and putting them on the home page.
+And then people linked and visited.
+We had a tool that showed CTR on headlines, and we had already started editing headlines based on that data, and moving articles around.
+You have 150 million visitors and 75 percent are from social.
+It turned out we had put our embed inside a different domain for Javascript security reasons.
+But during that month of confusion, we started focusing on social.
+The way search and social work, they're so different.
+When you make something to work for both, you end up making something that works for neither.
+A lot of social sharing is about emotion and connection - when someone shares a cute kitten video, they're not sharing it because they care about cats;
+They're sharing it because they want to share the emotion.
+If you stuff that with keywords, it detracts from the emotion.
+What I hope would happen is that Google would use more social signals to rank content so that when we make something amazing that is reaching millions of people it would at least show up in Google.
+If something is loved by millions of people and it's dark to Google that doesn't seem right.
+We have a really deep partnership with YouTube;
+We work a lot with Google via YouTube.
+We did over 200 million video views on YouTube last month - we focus on shareability of videos - the signal that matters is when they see content on BuzzFeed and they need to share it.
+If you make things shareable - content that people really, truly love - people will share it and you've done a good job.
+We have a four-acre studio lot in Los Angeles for making videos.
+We think about Google from a video standpoint.
+In the past, newspapers have battled over the comics - you couldn't be a serious political newspaper without having a great comic, because without a great comic, no one would read them.
+Usually there's a combo of seriousness and fun.
+When you look at CBS, you have Big Brother and then you have 60 Minutes - people realize there's a difference.
+The fact that it's all done by CBS is not an issue.
+If you think the reason it's viral is because it has corgis in it, make another post with corgis and see if it goes viral.
+If you think it's because it's tied to a holiday or it's short or long or because it was posted to Facebook...
+Whatever you think it is, make your statement but don't assume that you know you're right.
+Trying to repeat successes causes you to think both creatively and scientifically...
+That's the kind of process that we're going through all the time and that leads to new kinds of content and discoveries.
+A lot of time things aren't working for the reasons you think you are.
+It probably depends on the publisher.
+It is kind of complicated, but some are sophisticated about search.
+It is controversial and interesting for Google - if the best content is branded, shouldn't it still show up at the top of search results?
+We love Twitter.
+Our breaking news Twitter account has been growing really fast.
+Our reporters will often just post directly to Twitter if it's a factual, quick thing.
+Sometimes something is discovered on Twitter and jumps to Facebook - we see something get big on Pinterest from Facebook.
+It jumps.
+Could you explain Google+ to me?
+I had a Google executive tell me that this is the biggest network and I was missing out - but I couldn't tell if he was playing a prank.
+If we wanted to put a team on Google+...
+Where would they start?
+Sharing is one of the key ones for us.
+It shows that you actually want to share this with another person.
+You don't just look at sharing, though.
+Time on page matters because if people are sharing without reading you might think, are they sharing this because somehow I made them feel socially obligated to share this?
