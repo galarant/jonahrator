@@ -1,10 +1,10 @@
 {
-  "name": "jonahnator",
+  "name": "jonahrator",
   "version": "0.0.1",
   "description": "Jonah Peretti Quote Generator",
   "repository": {
     "type": "git",
-    "url": "git://github.com/galarant/jonahnator.git"
+    "url": "git://github.com/galarant/jonahrator.git"
   },
   "author": "Jeff Revesz & Polina Giralt",
   "license": "ISC",
