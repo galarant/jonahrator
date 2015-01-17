@@ -110,20 +110,3 @@ class PhraseGenerator(object):
         for symbol in VALID_SYMBOLS:
             ret = ret.replace(' %s' % symbol, symbol)
         return ret
-
-
-def load_quotes():
-    try:
-        with open('./quotes_data/quotes.txt', 'r') as quotes:
-            txt = quotes.read()
-    except IOError:
-        raise IOError('Error: could not open text file')
-    return txt
-
-
-def random_phrase():
-    txt = load_quotes()
-    p = PhraseGenerator(txt)
-    quote = random.choice(txt.split('\n'))
-    seed = quote.split(' ')[0]
-    return p(seed)

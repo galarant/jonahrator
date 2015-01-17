@@ -5,8 +5,7 @@ from django.views.generic import (
     TemplateView
 )
 
-from generator import random_phrase as nltk_phrase
-from markov_generator import random_phrase as markov_phrase
+from language.generator import random_markov_phrase as random_phrase
 
 
 class JSONResponseMixin(object):
@@ -40,8 +39,8 @@ class QuoteView(JSONResponseMixin, View):
     Returns a random quote as a JSON object
     """
     def get(self, request, *args, **kwargs):
-        rand_quote = markov_phrase()
+        rand_quote = random_phrase()
         while len(rand_quote) not in range(15, 120):
-            rand_quote = markov_phrase()
+            rand_quote = random_phrase()
         context = {'quote': rand_quote}
         return self.render_to_json_response(context)
