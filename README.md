@@ -11,21 +11,31 @@ The Jonah Peretti Quote Generator
   $ pip install -r requirements.txt
   ```
 
-2. Install npm packages:
+2. Globally install bower, browserify and watchify:
+
+  ```
+  $ npm install -g bower browserify watchify
+  ```
+
+4. Install npm packages:
 
   ```
   $ cd frontend
   $ npm install
   ```
 
-3. Install bower:
-
-  ```
-  $ npm install -g bower
-  ```
-
-4. Install bower packages:
+5. Install bower packages:
 
   ```
   $ bower install
   ```
+
+## Running the server:
+
+1. Build the front-end and run the server:
+
+  ```
+  $ ./manage.py build_and_run
+  ```
+
+2. Navigate to localhost:8000 and enjoy!

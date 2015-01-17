@@ -53,5 +53,13 @@ docs/_build/
 # PyBuilder
 target/
 
-#Bower packages
+#======= FRONTEND =========
+
+# npm modules
+frontend/node_modules
+
+# Bower packages
 frontend/bower_components
+
+# Built assets
+frontend/dist/
