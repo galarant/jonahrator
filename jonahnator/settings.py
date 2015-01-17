@@ -46,4 +46,5 @@ USE_I18N = True
 USE_L10N = True
 
 STATIC_URL = '/static/'
-TEMPLATE_DIRS = (os.path.join(BASE_DIR, 'frontend/app'))
+TEMPLATE_DIRS = (os.path.join(BASE_DIR, 'frontend/app'),)
+STATICFILES_DIRS = (os.path.join(BASE_DIR, 'frontend/dist'),)
