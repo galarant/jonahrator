@@ -27,6 +27,11 @@ function HomeCtrl($http) {
     self.color_scheme = random_color_scheme;
   };
 
+  self.facebookShare = function () {
+    var fbpopup = window.open("https://www.facebook.com/sharer/sharer.php?u=http://startup-ceo.io", "pop", "width=600, height=400, scrollbars=no");
+      return false;
+  };
+
   self.getQuote();
 }
 
