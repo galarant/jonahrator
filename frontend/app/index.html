@@ -4,17 +4,44 @@
   <head>
     <meta charset="utf-8">
     <meta name="description" content="The Jonahrator">
-    <link rel="stylesheet" href="/static/home.css">
-    <title>The Jonahrator</title>
-    <script type="text/javascript" src="static/main-built.js" defer></script>
+    <link rel="stylesheet" href="/static/styles/home.css">
+    <title>startup ceo</title>
+    <script type="text/javascript" src="static/dist/main-built.js" defer></script>
   </head>
 
-  <body ng-controller="HomeCtrl as home">
+  <body
+    ng-controller="HomeCtrl as home"
+    ng-style="{'background-color': home.color_scheme.light}">
     <span class="quote" ng-bind="home.quote"></span>
 
-    <form ng-submit="home.getQuote()">
-      <button class="btn" type="submit">New Quote</button>
-    </form>
+    <div class="navbar">
+      <div class="navbar_element">
+        <form ng-submit="home.getQuote()">
+          <button class="btn" type="submit">
+            Next Quote
+          </button>
+        </form>
+      </div>
+      <div>
+        <br />
+      </div>
+      <div class="navbar_element navbar_share_img">
+        <img src="static/public/images/facebook_share.png"
+        height="50"
+        width="50"
+        alt="Facebook"/>
+      </div>
+      <div class="navbar_element navbar_share_img">
+        <img src="static/public/images/twitter_share.png"
+        height="50"
+        width="50"
+        alt="Twitter"/>
+      </div>
+    </div>
+
+    <div class="footer">
+      about
+    </div>
 
   </body>
 
