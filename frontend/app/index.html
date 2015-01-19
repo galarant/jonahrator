@@ -4,6 +4,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="description" content="The Jonahrator">
+    <meta property="og:title" content="i am a startup ceo">
+    <meta property="og:url" content="http://startup-ceo.io">
+    <meta property="og:site_name" content="startup ceo">
+    <meta property="og:description" content="Pushing a deploy to the cute kittens, and that's where people are still figuring out what that means.">
+    <meta property="og:image" content="http://startup-ceo.io/static/public/images/google_cat_food.png">
     <link rel="stylesheet" href="/static/styles/home.css">
     <title>startup ceo</title>
     <script type="text/javascript" src="static/dist/main-built.js" defer></script>
@@ -11,7 +16,7 @@
 
   <body
     ng-controller="HomeCtrl as home"
-    ng-style="{'background-color': home.color_scheme.light}">
+    ng-style="{'background-color': home.color_scheme.dark}">
     <span class="quote" ng-bind="home.quote"></span>
 
     <div class="navbar">
@@ -26,16 +31,18 @@
         <br />
       </div>
       <div class="navbar_element navbar_share_img">
-        <img src="static/public/images/facebook_share.png"
+        <img ng-click="home.facebookShare()" class="clickable" src="static/public/images/facebook_share.png"
         height="50"
         width="50"
         alt="Facebook"/>
       </div>
       <div class="navbar_element navbar_share_img">
-        <img src="static/public/images/twitter_share.png"
-        height="50"
-        width="50"
-        alt="Twitter"/>
+        <a href="https://twitter.com/jonahrator" target="_blank">
+          <img src="static/public/images/twitter_share.png"
+          height="50"
+          width="50"
+          alt="Twitter"/>
+        </a>
       </div>
     </div>
 

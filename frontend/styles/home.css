@@ -11,6 +11,10 @@ body {
                sans-serif;
 }
 
+.clickable {
+  cursor: pointer;
+}
+
 .quote { 
   font-size: 7vmax;
   line-height: 98%;
