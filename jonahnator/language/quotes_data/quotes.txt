@@ -18,7 +18,7 @@ We're all teenage girls a little bit.
 We hate the celebrity at the party, but I was at a party with a celebrity!
 I see it more as kind of an indie rock mentality.
 My band is good and all the other bands suck, and that builds a close feeling.
-Contrast indie rock to hip-hop where it's like, You don't sell out, you blow up.
+Contrast indie rock to hip-hop where it's like, you don't sell out, you blow up.
 When there's a Coke, there's always room for a Pepsi.
 Did you know that the Stegosaurus lived further away from the Tyrannosaurus Rex than we are from the Tyrannosaurus Rex in time?
 We just think that humans are complex people that like to laugh sometimes, that like to gossip sometimes, that like to know what's going on in the world.
@@ -76,7 +76,7 @@ People rip out magazine or newspaper articles and mail them, and there's some sm
 And every day we have to make content that people think is worth sharing, and we don't reach any audience at all unless we make content that people think is so good that they're willing to pass it on and share it with all their friends.
 That model doesn't have an offline version of it.
 We want to build a sustainable company.
-We like to think, What would a media company be if you created one from scratch today? What would a media company be for the era of social and mobile? What would it be like to build that company? Generating revenue is an important part of building a company.
+We like to think, what would a media company be if you created one from scratch today? What would a media company be for the era of social and mobile? What would it be like to build that company? Generating revenue is an important part of building a company.
 So is having great investigative journalism.
 So is having really entertaining content.
 We have a pretty broad purview - a pretty broad range of things we do.
@@ -90,7 +90,7 @@ Facebook is much more tied to broad human emotion and things that everyone can r
 It's not so much about the information in the content; it's about how that content allows you to connect with other people in your life.
 So things like humor, things like cute animals, things like breaking news, things where when you engage with the content, you immediately want to share it and bring other people into the conversation.
 It's good to not always trust your gut, to have some skepticism about it, and to constantly have new data coming in and constantly question what you actually know.
-A lot of what we do at BuzzFeed is give dashboards to every person who works at BuzzFeed where they're seeing how people are engaging with the content they're producing: Is it going up? Is it going down? They can test hypotheses and theories and say, All right, this worked in the past.
+A lot of what we do at BuzzFeed is give dashboards to every person who works at BuzzFeed where they're seeing how people are engaging with the content they're producing: is it going up? Is it going down? They can test hypotheses and theories and say, All right, this worked in the past.
 Can I make it work again? Can I do something similar? Can I take one part of it and make that work? And you start to learn through having a healthy skepticism and lots of access to new data.
 I think there's a lot of over-optimization on the web.
 You see this sort of side boob trap or something, where you put some picture of a celebrity whose dress lets you see the side of her boob on the front of your website, and you say, Wow! That gets a really high click-through rate.
@@ -186,7 +186,7 @@ Also we should get money back, which allows us to fund doing more of it.
 If you have that, it doesn't matter where the content lives, but it does matter that you're able to get some knowledge and learning from it.
 That's the thing that traditional media sort of lacks.
 It's a huge advantage for a tech-oriented media company that's on a digital platform.
-Pushing a deploy to the Buzzfeed.com website is a trivial thing that really any engineer is able to do because we've built all kinds of tools to make deployment easier on web.
+Pushing a deploy to the Buzzfeed website is a trivial thing that really any engineer is able to do because we've built all kinds of tools to make deployment easier on web.
 That's great, because you can do more faster and have shorter loops and shorter cycles of development.
 When you look at our app now, we spent really a year working on underlying architecture and making sure that it loaded quickly, it didn't crash, and it was designed in such a way that we could build some cool features.
 Our content wouldn't even be on Facebook if it wasn't for people who thought it was worth sharing with their friends.

@@ -27,7 +27,9 @@ def random_markov_phrase():
 
     # To let the markov chain generate some text, execute
     sentence = mc.generateString()
-    generated_sentence = sentence[0].upper() + sentence[1:] + '.'
+    generated_sentence = sentence[0].upper() + sentence[1:]
+    if generated_sentence[-1] not in ['?', '!']:
+        generated_sentence += '.'
     return generated_sentence
 
 
