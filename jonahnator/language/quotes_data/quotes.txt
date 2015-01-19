@@ -172,7 +172,7 @@ We're doing so much more than we've ever done before, and there's nice big meaty
 BuzzFeed has invested in a model that's more vertically integrated.
 We're building the technology and the site and the CMS, and also the brand and the content, and building this full-stack startup.
 What we're seeing now is that's become more complicated.
-You're starting to see more network-integrated companies
+You're starting to see more network-integrated companies.
 That content is part of a vertically integrated site that lives on the web.
 And that same content is going to an app.
 And to native content formats on Facebook, on YouTube, on other platforms.
@@ -209,7 +209,7 @@ And that's something to aspire to for the Web.
 Important content.
 We are a global media company for the social age.
 We don't want to make content for Twitter or Facebook.
-We want to make content for the people on Twitter or Facebook
+We want to make content for the people on Twitter or Facebook.
 They're not concerned about our success?
 I don't think they need to suffer in order for us to succeed.
 We kind of accidentally discovered SEO.
@@ -224,12 +224,12 @@ It turned out we had put our embed inside a different domain for Javascript secu
 But during that month of confusion, we started focusing on social.
 The way search and social work, they're so different.
 When you make something to work for both, you end up making something that works for neither.
-A lot of social sharing is about emotion and connection - when someone shares a cute kitten video, they're not sharing it because they care about cats;
+A lot of social sharing is about emotion and connection - when someone shares a cute kitten video, they're not sharing it because they care about cats.
 They're sharing it because they want to share the emotion.
 If you stuff that with keywords, it detracts from the emotion.
 What I hope would happen is that Google would use more social signals to rank content so that when we make something amazing that is reaching millions of people it would at least show up in Google.
 If something is loved by millions of people and it's dark to Google that doesn't seem right.
-We have a really deep partnership with YouTube;
+We have a really deep partnership with YouTube.
 We work a lot with Google via YouTube.
 We did over 200 million video views on YouTube last month - we focus on shareability of videos - the signal that matters is when they see content on BuzzFeed and they need to share it.
 If you make things shareable - content that people really, truly love - people will share it and you've done a good job.
@@ -265,7 +265,7 @@ Our investment is for a global audience of all ages.
 We do foreign news because it matters to readers and can have a big impact on the world.
 BuzzFeed has figured out a business model to support journalism.
 We have the resources to invest in foreign reporting, investigative journalism, narrative features, and beat reporting.
-Since she's joined, we've had this tremendous and unprecedented run of growth
+Since she's joined, we've had this tremendous and unprecedented run of growth.
 The site has nearly tripled its traffic in the past year since Nguyen began managing the data-science team last summer.
 Unique monthly visitors more than quintupled, from 28 million to 150 million, in the two years she's been with the company.
 It's just like incredible to hire someone and say your job is growth and then you look, and she just like knocked it out of the park.
@@ -273,7 +273,7 @@ We're fortunate in that we're in the position where we don't have to take any mo
 So we would only take additional funding if we found a partner we thought could add a lot of value.
 You can tell 12 people about something and have it reach millions of people.
 The millions of bored office workers who are connected to high-speed internet connections and they spend half of their day sharing media and passing stuff that's on Facebook and on Twitter and on social networks and the other half of their day working.
-And that collectively they're creating a network that's bigger than any of the traditional media networks
+And that collectively they're creating a network that's bigger than any of the traditional media networks.
 You can literally reach hundreds of millions of people if you make something that the bored at work network likes.
 People on their mobile phones in line at the supermarket or whatever.
 People weren't really programming content for this new networked world where people are sharing content with each other and that's the primary way that it's spreading.
@@ -311,8 +311,8 @@ BuzzFeed will continue to push the boundaries of what a media site can be in the
 It's still partly a tech company, even though it's now a media company first.
 I wouldn't be shocked if it was a number like that.
 When people first started noticing us, their response was similar to the way Japanese cars were perceived when they were first introduced to the U.S.
-People made fun of them, and they laughed
-Look at these crappy cars
+People made fun of them and they laughed.
+Look at these crappy cars.
 But a lot of young people said awesome, I can own a car for the first time, and it gets me around.
 And then the cars got to be better and better, and now people generally consider Japanese cars to be higher quality than American cars.
 At Huffpo I was perplexed that all our tech and product work only made us money indirectly.
