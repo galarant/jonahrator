@@ -335,7 +335,7 @@ Journalism works best on social networks with scoops and quality reporting.
 We are building the agency of the future for a social world.
 BuzzFeed has developed a new formula.
 It's actually, literally, a formula.
-The epidemiological equation for viral reproduction, expressed as R = Bz. (in epidemiology, the z represents the number of people who come in contact with a contagious individual, while B represents the probability of transmission.
+The epidemiological equation for viral reproduction, expressed as R = Bz: in epidemiology, the z represents the number of people who come in contact with a contagious individual, while B represents the probability of transmission.
 This is the starting point of a theory I call Big Seed Marketing.
 To me, advertising is fascinating, partly because it's part of culture, and partly because it sucks.
 There's a bit of the geek mentality, which is that when you see something that's broken, you try to fix it.
