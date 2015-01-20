@@ -1,0 +1,1 @@
+web: ./manage.py build_and_run
