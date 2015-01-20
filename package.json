@@ -15,12 +15,12 @@
   "devDependencies": {},
   "scripts": {
     "clean": "./node_modules/.bin/rimraf dist/",
-    "prebuild": "npm run clean -s && mkdir -p dist",
+    "prebuild": "npm run clean -s && mkdir -p frontend/dist",
 
     "build": "npm run build:scripts -s",
-    "build:scripts": "browserify -d app/main.js -o dist/main-built.js",
+    "build:scripts": "browserify -d frontend/app/main.js -o frontend/dist/main-built.js",
 
-    "watch": "npm run prebuild && watchify app/main.js -o dist/main-built.js"
+    "watch": "npm run prebuild && watchify frontend/app/main.js -o frontend/dist/main-built.js"
   },
   "dependencies": {
     "debowerify": "~1.2.0",
