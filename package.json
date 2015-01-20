@@ -24,7 +24,8 @@
   },
   "dependencies": {
     "debowerify": "~1.2.0",
-    "rimraf": "~2.2.8"
+    "rimraf": "~2.2.8",
+    "bower": "*"
   },
   "browserify": {
     "transform": [
