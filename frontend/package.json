@@ -1,0 +1,34 @@
+{
+  "name": "jonahrator",
+  "version": "0.0.1",
+  "description": "Jonah Peretti Quote Generator",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/galarant/jonahrator.git"
+  },
+  "author": "Jeff Revesz & Polina Giralt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galarant/jonahnator/issues"
+  },
+  "homepage": "https://github.com/galarant/jonahnator",
+  "devDependencies": {},
+  "scripts": {
+    "clean": "./node_modules/.bin/rimraf dist/",
+    "prebuild": "npm run clean -s && mkdir -p dist",
+
+    "build": "npm run build:scripts -s",
+    "build:scripts": "browserify -d app/main.js -o dist/main-built.js",
+
+    "watch": "npm run prebuild && watchify app/main.js -o dist/main-built.js"
+  },
+  "dependencies": {
+    "debowerify": "~1.2.0",
+    "rimraf": "~2.2.8"
+  },
+  "browserify": {
+    "transform": [
+      "debowerify"
+    ]
+  }
+}
