@@ -1,1 +1,2 @@
-angular.module('Jonahrator', []);
+/*global angular */
+angular.module('Jonahrator', ['ngRoute']);

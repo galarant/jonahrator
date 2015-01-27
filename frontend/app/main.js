@@ -1,3 +1,6 @@
-var angular = require('angular');
-var app = require('./app.js');
-var home = require('./controllers/home.js');
+require('angular');
+require('angular-route');
+require('./app.js');
+require('./routes.js');
+require('./controllers/home.js');
+require('./controllers/quote.js');

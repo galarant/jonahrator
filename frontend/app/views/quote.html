@@ -1,0 +1,32 @@
+<span class="quote" ng-bind="quote.quote"></span>
+
+<div class="footer">
+  <a href="/#/about">about</a>
+</div>
+
+<div class="navbar">
+  <div class="navbar_element">
+    <form ng-submit="quote.getQuote()">
+      <button class="btn" type="submit">
+        Next Quote
+      </button>
+    </form>
+  </div>
+  <div>
+    <br />
+  </div>
+  <div class="navbar_element navbar_share_img">
+    <img ng-click="home.facebookShare()" class="clickable" src="static/public/images/facebook_share.png"
+    height="50"
+    width="50"
+    alt="Facebook"/>
+  </div>
+  <div class="navbar_element navbar_share_img">
+    <a href="https://twitter.com/jonahrator" target="_blank">
+      <img src="static/public/images/twitter_share.png"
+      height="50"
+      width="50"
+      alt="Twitter"/>
+    </a>
+  </div>
+</div>
