@@ -17,7 +17,8 @@
   <body
     ng-controller="HomeCtrl as home"
     ng-style="{'background-color': home.color_scheme.dark}">
-    <span class="quote" ng-bind="home.quote"></span>
+
+    <div ng-view></div>
 
     <div class="navbar">
       <div class="navbar_element">
@@ -44,10 +45,6 @@
           alt="Twitter"/>
         </a>
       </div>
-    </div>
-
-    <div class="footer">
-      about
     </div>
 
   </body>

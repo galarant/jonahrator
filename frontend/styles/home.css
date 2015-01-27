@@ -11,6 +11,15 @@ body {
                sans-serif;
 }
 
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  color: #00E6E6;
+}
+
 .clickable {
   cursor: pointer;
 }
@@ -46,6 +55,7 @@ body {
   position: absolute;
   right: 50px;
   bottom: 50px;
+  z-index: 1;
 }
 
 .btn {
