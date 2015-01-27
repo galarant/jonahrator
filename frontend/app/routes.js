@@ -1,14 +1,15 @@
 /* global angular */
 function appRoutes($routeProvider) {
   $routeProvider.
-    when('/home', {
-      templateUrl: 'static/app/views/home.html',
+    when('/quote', {
+      templateUrl: 'static/app/views/quote.html',
+      controller: 'QuoteCtrl as quote',
     }).
     when('/about', {
       templateUrl: 'static/app/views/about.html',
     }).
     otherwise({
-      redirectTo: '/home'
+      redirectTo: '/quote'
     });
 }
 

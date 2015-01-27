@@ -10,16 +10,7 @@ function HomeCtrl($http) {
                         {light: '#FF6666', dark: '#CC5252'},
                         {light: '#00CC99', dark: '#00A37A'}];
 
-  self.getQuote = function () {
-    $http.get('/quote').then(function(response) {
-      self.quote = response.data.quote;
-      self.changeColors();
-    }, function(errResponse) {
-      console.error('Error while fetching quote.');
-    });
-  };
-
-  self.changeColors = function () {
+  self.changeColor = function () {
     random_color_scheme = self.color_scheme;
     while (random_color_scheme === self.color_scheme) {
       random_color_scheme = self.color_schemes[Math.floor(Math.random() * self.color_schemes.length)];
@@ -32,7 +23,8 @@ function HomeCtrl($http) {
       return false;
   };
 
-  self.getQuote();
+  self.changeColor();
+
 }
 
 angular.module('Jonahrator').controller('HomeCtrl', ['$http', HomeCtrl]);

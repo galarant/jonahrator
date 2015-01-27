@@ -16,36 +16,10 @@
 
   <body
     ng-controller="HomeCtrl as home"
-    ng-style="{'background-color': home.color_scheme.dark}">
+    ng-style="{'background-color': home.color_scheme.dark}"
+    ng-click="home.changeColor()">
 
     <div ng-view></div>
-
-    <div class="navbar">
-      <div class="navbar_element">
-        <form ng-submit="home.getQuote()">
-          <button class="btn" type="submit">
-            Next Quote
-          </button>
-        </form>
-      </div>
-      <div>
-        <br />
-      </div>
-      <div class="navbar_element navbar_share_img">
-        <img ng-click="home.facebookShare()" class="clickable" src="static/public/images/facebook_share.png"
-        height="50"
-        width="50"
-        alt="Facebook"/>
-      </div>
-      <div class="navbar_element navbar_share_img">
-        <a href="https://twitter.com/jonahrator" target="_blank">
-          <img src="static/public/images/twitter_share.png"
-          height="50"
-          width="50"
-          alt="Twitter"/>
-        </a>
-      </div>
-    </div>
 
   </body>
 

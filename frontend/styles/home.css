@@ -13,7 +13,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #fff;
+  color: #00e6e6;
 }
 
 a:hover {
@@ -40,6 +40,10 @@ a:hover {
   width: 10%;
 }
 
+.about {
+  font-size: 4vmax;
+}
+
 .navbar_element {
   text-decoration: none;
   position: relative;
@@ -52,6 +56,7 @@ a:hover {
 }
 
 .footer {
+  font-size: 3vmax;
   position: absolute;
   right: 50px;
   bottom: 50px;
