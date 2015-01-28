@@ -348,3 +348,557 @@ Virgin Mobile's ratio of shares to paid views is better than one to one.
 Could you make a list of cute animals that gets 5 million views?
 It's actually really hard.
 It's actually better for us if people don't take us seriously.
+As we grow, how can we maintain a culture that can still be entrepreneurial?
+But what has really set BuzzFeed apart is its grasp of technology.
+We're organizing ourselves to be a media company for the way people consume media today.
+I probably wouldn't.
+The Nike email was the thing that opened my eyes to the kind of stuff I'm doing now and it really was an accident.
+I should be writing my master's thesis.
+I'm procrastinating.
+I'm at the MIT Media Lab and, before that, I was a schoolteacher in New Orleans.
+I could start back there if you want.
+He hired me when I was twenty-two years old and I had some teaching experience in summers and some technology experience.
+I moved to New Orleans and became a schoolteacher.
+I taught sixth graders how to make websites on GeoCities.
+Teaching things like order and randomness.
+We did social protest letters, using the Microsoft Office Letter Wizard.
+I did all these projects with students and then I would write them up and submit them to educational technology conferences.
+That is how I was able to get into MIT.
+I had published these papers and had done all these interesting lessons and there was a professor there who was interested in cognitive science and behavioral psychology and learning, so I joined that group to do educational technology work.
+That stuff is relevant to the media business.
+You're explaining things and communicating.
+And you have lots of practice communicating.
+How do you reach people and how do you get people to understand?
+Sometimes writing something that's very sophisticated and difficult and technical for a particular audience is totally fine, but you should be able to communicate in simple language.
+The thing is, there are dangers in this, because you can also explain something in a way that makes people feel like they understand it when they actually don't.
+You can figure out a way to frame something and explain it so that it feels like it confirms what people already believe, including incorrect things they believe.
+You learn a lot from teaching and you learn all about how to communicate.
+I came out of a university system that was, at that particular moment in the '90s, glorifying postmodern critical theory.
+There was a sense that the best way to show you understand something is to write something incomprehensible.
+So all of a sudden, sitting in front of a bunch of twelve-year-olds or a bunch of seventeen-year-olds and having to try to explain something to them, it was a good reminder that it's possible to communicate.
+I was reading Foucault and Roland Barthes and Kant and Marx and Freud.
+And then also doing 3-D modeling and HTML and JavaScript.
+I was an environmental studies major, not a Computer Science major.
+We're really going deep.
+If I didn't know you, I wouldn't talk to you about any of this stuff.
+A lot of the best professors were in this History of Consciousness program, which was essentially each professor competing to be the most radical, whether it was French feminism, postmodernism, critical theory, post-colonial studies, Lacanian psychoanalysis.
+Then, each summer, I worked as a teacher: sometimes as a technology teacher and sometimes just at educational summer programs.
+Then off to MIT where I just wander around with a bunch of nerds and eat tacos and talk about ideas and work on projects and have no real responsibility at all.
+The Nike thing happened in the end of my time there and was accidental and got me thinking about networks and scale and network science and how do ideas spread and things like that.
+But most of my time when I was there, I was thinking about teaching and learning and technology.
+I built a prototype of a Lego robotics thing that, while you're watching educational television, it beams code to the thing you're building so then it animates it.
+These are the kind of things you do there.
+You'd hack something together in a couple of weeks and you'd get to the point of it being a demo and some of those times you'd just stop there and then do something else.
+The laboratory for computer science thought that maybe our people were a little bit flaky.
+They're working on one algorithm or whatever for like a year, and we would just kind of do projects and demo them.
+The demo was a huge part of the Media Lab.
+Sometimes corporate sponsors or just your peers would come by during demo week and you would show them stuff.
+If you had a cool demo, people would gather round and get interested and want to hear more and want to contribute to it.
+If you had a lame demo, people would shun you.
+The idea of product personalization is the kind of idea that could be a media demo.
+I wanted to see how it worked.
+It was a little disappointing because you couldn't really do that much.
+It was more just change the color or put a name on.
+And then I think I tried a bad word or something and it was banned.
+And it was clear that what they wrote back was part formula, part human.
+Like a human was editing a form letter.
+There wasn't a concept of things going viral.
+It's funny how that's become so normalized where people say, Oh, maybe that will go viral.
+At that time, nobody ever said: This thing could go viral.
+That wasn't part of anyone's consciousness.
+There were email forwards, and blogging was an interesting subculture.
+So to me it seemed like this interesting communications phenomenon.
+From this totally naive perspective, they all said this accidental thing happened, and a cascade through a network emerged, although they didn't use that language.
+He was working out the mathematics of six degrees of separation as a grad student at Cornell and studying the networks of how a cricket chirp spread.
+Should I stop?
+With his advisor, he created the Watts-Strogatz theorem, which described the conditions that a network needs to have for it to be a small world, where through a few short hops, you can get to any other node in the network.
+Duncan was studying networks and then he starts looking at the study of human behavior and decisions and behavioral economics and things like that.
+So I think Duncan went into it at a much deeper level and with much more rigor and much less smoke and mirrors and with many fewer people watching.
+And then how do people make decisions?
+How do they decide that of all the things that come into their inbox, they're going to forward this Nike email, but they're not going to forward other things?
+Then you start thinking about human psychology and how people evaluate content.
+How do people decide whether something is worth passing on to their friend or not?
+This kind of gets back to education in a way, or trying to understand how the brain or mind works.
+It was this giant, unfolding, complex problem with different areas that you could spend a whole lifetime thinking about and working on from the structural mathematical sense of networks.
+All those things working together started to feel like the way the media industry's going to work.
+That's the way content and ideas will spread.
+It doesn't necessarily have to be a broadcast pipe or printing press and trucks driving around newspapers.
+It feels like there's this new, different way that people are just beginning to understand.
+Even now, websites look kind of like print publications and we're still stuck in lots of legacy ways of thinking.
+But now there's this possibility of, Oh, it could work a different way.
+It's like a constellation of connected things.
+Some of those ideas were things that we came up with because we needed one for every student, and some of the things we were excited about.
+But there were others in that cohort of students that didn't do as well.
+Learn by doing one of our projects and then do your own.
+There's all these things you can do to ensure that something doesn't work.
+I'm thinking back to what other things were going on at that time.
+The first one was sort of an accident.
+The Nike thing was an accident and I collaborated on that one with a customer service representative at Nike-a non-consensual collaboration maybe.
+The next one with Chelsea was Rejection Line and that was the only one we did and it really took off.
+And then Black People Love Us was the one we really focused on in terms of these design challenges.
+I think it's hard to do that and the only reason we were able to do three in a row is because no one was trying to make things that were viral.
+There was no competition.
+There were things accidentally happening that sometimes would go viral, and then we were like one of maybe a few dozen people trying to actually make viral web culture, when nobody was doing it.
+So the networks were completely open in the sense that no one was even trying to make content that intentionally would go viral.
+A few years later, everyone is like, How do I make my YouTube video go viral and how do I make this and how do I do this viral marketing project?
+There's sometimes moments where networks are so amenable to spread.
+Duncan uses this forest-fire analogy, which is if there's a forest where the underbrush is wet, the trees are far apart, there's not many dead trees, you could take a flamethrower to it and it won't burn.
+If the forest is dry and it's been hot and the trees are close together, you can just drop a match and the whole thing will burn.
+I think there was a period between 2001 and 2003 when the dry forest was ready to burn.
+If you made something that was pretty funny and you made something that had certain qualities that caused people to want to share and talk and discuss, then things would spread pretty far.
+Now you see people do a really cool project or a cool Tumblr and they don't end up on the Today Show.
+So things were spreading faster and the network was more lubricated or more connected, but also there started to be more and more people making things designed for these networks.
+So it's kind of like cable existed and there was only three channels on cable and you start a new cable channel and you're like, Oh, people love my channel.
+But it's really that the cable networks were just built out and Viacom doesn't exist yet so you succeed by default.
+For a lot of people, having something make money is the thing that legitimizes it.
+Maybe mainstream media legitimizes it to a certain point, but mainstream media plus actually making money is, Oh, this is real.
+For me, I was just trying to understand how these networks work.
+And for Chelsea, she was just like, Oh, this is awesome.
+I have a massive venue for my comedy.
+For her, I think she saw it as more of a platform for comedy and for me it was like a lab to understand the way networks work and content spreads and ideas spread.
+I'm not sure when I first heard it, but it's one of those words that started to have a worse and worse brand, if you can think of a word having a brand.
+Viral marketing companies started to use it to describe a phenomenon that is actually not viral, which is making something and buying a million views for it and then saying: This got a million views, it's viral.
+And then they'd say a million views means viral.
+We were thinking in terms of an actual epidemiological definition of viral, with a certain threshold of contagion that results in it growing through time.
+Instead of exponential decay, you get exponential growth.
+That is what viral is.
+As trolling, you understood it.
+The targets of the satire were a particular kind of young, white, liberal person.
+The reality of these web projects is that they then reach all these other groups.
+We were continually shocked at how different people were reacting to it.
+What if that whole debate is really just about life stage?
+It's like, Oh, no no no, snark and trolling and being relentlessly critical is good when you're younger.
+It's harder to pull off too because there are so many ways of validating things.
+We didn't know these quadrants existed then.
+So it was like a critique of a particular type of college liberalism that had gotten out of control.
+The idea was that it would satirize those people and maybe annoy them a little and then for more enlightened people, it would be a funny joke and they would get that it was a satire of those people.
+But it was made for this smaller group and it blew up in a much bigger way than we anticipated.
+The thing that was pretty eye-opening to me, just from a technology standpoint or from a network standpoint, was that you could look at your referral stats and you could see traffic coming from these different places.
+I know you won't do any fact-checking because it's too much work.
+Medium's fact-checking team is-they might actually have fact-checkers at Medium.
+I could live like a grad student and break even.
+And then I got hired to be the director of R&D at this urban technology non-profit in New York, called Eyebeam.
+That was all work I could do at Eyebeam because Eyebeam was created by John Johnson and he was from the Johnson & Johnson family and he had been a filmmaker, an artist, and a patron of the arts, and he built Eyebeam as this creative space where artists and hackers and engineers and activists could come together and do projects.
+The concept was R&D for the public domain.
+That was the first instance of that particular form of sharing.
+We had several people come to us and say: This should be a company.
+Dude, turn this into a thing.
+I think we were just like, Oh, we're not really interested in starting a company.
+That sounds terrible that we'd have to maintain all these servers and host this.
+The idea is already out there and that's what it's about.
+It was short snips of text and images and pieces and that would be your tumble log, but it wasn't social.
+So he kind of took the re-blog idea and the tumble log idea and an amazing design and incredible focus and turned that into something that was sort of between the two of them, sort of a social network or sharing thing.
+But there were so many things like that in that era where people were building these little half-baked things.
+Like Jeff Hahn was making multi-touch displays and he would come to the technology group things, and he was working on these cool hacks, and then, all of a sudden, they're on CNN and soon after that they're in everyone's pocket in the entire universe.
+The thing is, if you care about having an impact on the world, the too-early mode is the highest leverage point because you can have an idea, build a mock or a prototype of it, and then have those ideas find themselves in products that other people build that then scale up to massive.
+If all you value is money, then it's a sad story.
+But if you think that the graphical user interface is a cool thing and you worked on the graphical user interface at Xerox, you can feel like: This has a big impact on the world.
+And some of them have a sense of personal satisfaction that they had a big impact, even if they didn't profit from it at the scale that they could have.
+You compare it to Tumblr and Tumblr was just so much easier and better designed.
+But when people were using it actively, if you cared about the kinds of topics they were talking about, you could look at the stream for the tag and you would find just all these things on a topic you're totally interested in, streaming in from a tag.
+Oh, Delicious is adding tags-let's add tags in Flickr.
+So anyway, I'm feeling very old talking about all this stuff.
+The other thing was, Eyebeam was a great place for people to come and share ideas and they would share ideas so freely because it was a non-profit.
+And it was too early in that nobody really wanted to make any of this stuff into businesses and saw that as a distraction.
+It would lead to not being able to generate as many ideas.
+I don't know I'd totally agree with that.
+Scaling things, and building a business, and the data that you have when you grow something to a large scale, does allow you to learn certain things that you can't learn in a lab.
+The thing that bothered me about Eyebeam was that you'd do some amazing project or event and it would get attention and people would love it and it would be a cool idea and would make people think about new ideas and get excited, and then, at the end of the project, you would start back at zero or you'd have to go write another MacArthur grant, which would take two years.
+What I learned first at HuffPost is that if you do something and make a splash and build something interesting, then people will give you money to do more stuff.
+They come to you and say: Why don't you take this to the next level?
+Let us invest.
+And then you generate revenue, and that allows you to explore more ideas.
+I did become a convert to building businesses and start-ups.
+He called together a group of luminaries who knew all about the Internet to help him with his political projects.
+Jeff Jarvis is there talking about blogging and someone else is talking about MeetUp.
+There's someone there who does mobile stuff and there's someone there who does ad stuff.
+It was super interesting for me to see the way that you could do things on both sides.
+You could have a model that was based on people sharing things, certain things propagating on the Internet, but you also could have an important cause and call up a reporter that you've known for twenty years and have them write up a story.
+There was this world that I didn't know anything about that Kenny was enmeshed in.
+There wasn't an idea of what it was going to be, defined.
+It was just like, we've worked together on these things that have been successful.
+We bring in different pieces to it.
+It's very complementary.
+I said yes with the idea that we'd figure out what it is in the future.
+A great way to learn about the Internet is to build one of the biggest sites on the Internet.
+It's hard to remember how much we've all changed, because we've changed so much.
+In their case, they were more fully formed than I was, but they changed most in their familiarity and embrace of the Internet.
+I'm, like, day-to-day fully immersed.
+HuffPost, like any other company, had to keep reinventing itself, and changing its model, and evolving, and building technology, and moving from linking out to other sites on the web to making more content.
+I was focused on tech and product and traffic and that kind of thing.
+I was just trying to solve this problem, early on, of how do you make something that is both contagious and sticky.
+We knew we could make that happen.
+I knew that that would create a sensation, that some people would hate it, and that some people would love it, but that it would be an incredibly exciting development that every blogger would have to watch, and be excited to watch, and want to form an opinion on.
+That was what would generate the viral spike.
+The question was, all my previous projects did a spike and then crashed.
+With always-fresh headlines and splashes and things like that, people would come back every single day.
+There were these two models that we just kind of bolted together.
+One was to make the site itself viral, which was celebrities blogging.
+I was very focused on making sure that they used the default blogging tools of the Internet.
+We knew that was the piece that was going to make it take off and be contagious.
+Then Andrew posting links and headlines that were constantly updated would be the thing that made it sticky.
+You'd come to see the celebrities blogging, you'd say, Wow, what does this mean? That blogging has evolved in this different way.
+And then you would say, Oh, there's a good link here.
+There's a good link here.
+And you would just keep coming back every day.
+Even if Larry David didn't blog again for three months, you'd be checking the site because you'd have great links to content around the web.
+That was sort of the idea.
+It was, I think, around a million dollars, something like that.
+We raised again once the site was off and running.
+It was a small team and it wasn't like people were making huge salaries.
+It was a small little upstart.
+Oh, people are coming, traffic's growing, but we need entertainment, we need media, we need other verticals.
+BuzzFeed was around at that point and I would put a little BuzzFeed widget on posts to see whether the audience would click on it.
+People clicked on celebrity just as much as politics.
+That was a success.
+It wasn't a model of where the company went, but it was a success as a way of launching the company and getting to a plateau and then getting to grow.
+In part, it started it that way.
+Part of its DNA was thinking of how to build an entry point or front page to the web.
+I'm trying to remember what the evolution was.
+The site was growing but the election was a big part of it.
+We knew we had to launch other verticals and sections so that after the election, people would see HuffPost as being more than just a political site.
+We launched those verticals and had to freeze development on all other features.
+It was a long delay.
+It was very painful.
+Everyone had things they wanted built or done.
+We couldn't do any of them because we were launching a model to have five or six front pages.
+Part of the problem with a home page model is that you have one home page and people don't really like to go to the secondary pages.
+We did a lot of work and it didn't have that much of an impact except that we had hired editors for each vertical and we could put some of those links on the main home page and those were getting clicked and people were seeing those and seeing that the site had done other stuff.
+What we did after that is we realized, okay, now this vertical section needs to start having more original content and aggregated content.
+From there it went from to carrying original content as well. That was sort of an evolution.
+If you make a great page about that thing, you often could get to the top of Google results just as searches were surging.
+It was partly because Google got faster indexing at that point.
+Google was slow indexing and then all of a sudden became quick, and BuzzFeed figured that out in the lab, but then HuffPost editors got really good at it and we'd swarm stories very quickly and often be the first news source to create a comprehensive page for what was happening, linking out to other multiple other sources.
+Those pages became huge growth generators for the site.
+It was something where there was a model that HuffPost had that other people didn't really fully understand, and that HuffPost got good at.
+At its best, it was pages that were pretty valuable to the user.
+It was a great page to keep informed of what was happening everywhere.
+It was clearly written, there were six dedicated people all working on it.
+At its best, it was great for users and great for the business because it was allowing the company to scale and grow really quickly.
+At its worst, SEO is someone finding an inferior article instead of a superior article because the site does a better job of writing for Google, but a worse job for writing for humans.
+I think that's when, in my view, you're over-optimizing.
+You end up reaching people who are not satisfied with what they're getting from you. Which isn't good for a brand.
+From the perspective of the industry, it would make much more sense for people to go to The New Yorker article so that they get the traffic, as modest as that ad revenue would be, they get the traffic and they get the people onto their site.
+There is some conflict between Google saying: Well we want to serve the consumer, and sending people to the article that the consumer likes the best.
+Or is Google supposed to send people to the article that costs the most to produce and supports the industry the most?
+Does that make sense?
+There is a little bit of a conflict, or a little bit of a tension.
+People always overestimate their importance to the success of the company.
+When there's a startup that sells, for example, or there's a startup that's super successful and is growing, people's view of who drove the success is very highly correlated to who they know at the company.
+It's true with most companies.
+The thing you're closest to, you think has the biggest impact.
+That, I think, is the cognitive bias that makes it hard for me to answer the question.
+The system as a whole matters so much.
+Any one of us who thinks that they're solely responsible for the success of the company is, by definition, wrong, and the relationship between all the different pieces of the company has to be strong.
+In some cases, there's things that aren't even measurable.
+Like maybe just having tech, edit, and business teams communicating effectively, is more important.
+The lines might be more important than the dots.
+It depends on how much they can change at all.
+If you're trying to build something that is disruptive in the  Clay Christensen sense, within an existing organization, his research, at least, shows that it's better to do it in a different physical location, even if it's in the same city, because it's just too easy to think, Oh, let's look for synergy.
+Let's bundle these things together.
+Let's do joint ad sales across digital and print.
+Let's make sure that the digital stuff is easy to package into stuff that can be printed.
+You spend lots of time with your mind focused on the relationship between the existing business and the new business you're building, instead of just thinking about how to reach the full potential with the new business.
+The problem is, when you're embedded in a company where what you're doing looks like a very small business, it doesn't get the attention, and even people who work there have trouble taking it seriously because they're like a little flea compared to the other activities going on in the business.
+I kind of missed, a little bit, the Eyebeam environment where you could just experiment with ideas.
+HuffPost was a real business and we had goals.
+We were hitting them, and we were growing the company.
+There were certain ideas that I wanted to play with, particularly because the company that Kenny and I ended up doing, HuffPost was more of a news company and a little bit less of a social content company.
+It was hard to do playful experiments on a site that was very serious, without it conflicting with the mission of the site.
+I can play around with ideas there.
+Sometimes when there's an interesting thing we figure out I can just apply it to HuffPost, which we did on various occasions.
+It was not really seen as a separate company, it was more like an R&D lab that was separate, with some of the same people involved.
+It was an LLC.
+It didn't have any institutional investors.
+Yes, it wasn't easy raising money in the early days of BuzzFeed.
+It can be algorithms or it can be the user doing the work for free.
+Twitter and Facebook are exciting because their cost of content creation is zero.
+You can imagine them scaling without having to hire lots and lots of people.
+WhatsApp is exciting to them because you have fifty-some employees and reach massive scale.
+The kind of leverage you can have if you're a tech company is really phenomenal, but when you look at media companies through history, they've had a different kind of leverage.
+If you're a newspaper that has a circulation of five million there's a lot more leverage than if you're a newspaper that has a circulation of one hundred thousand.
+Media businesses can have leverage, but it's different.
+There was politics.
+Navigating all these things, my brain cycles were kind of stuck on HuffPost more than they should have been.
+All of that energy and focus went into BuzzFeed and what should BuzzFeed do.
+We had this little widget on the front page of Huffington Post, and that was sending traffic to BuzzFeed.
+But at a certain point, that widget was removed.
+Right or wrong, Wall Street and VCs and angel investors are very focused on growth.
+It makes a huge difference to the valuation of the company if it's growing fast or if it's growing slowly.
+I think VCs in general are great to be partnered with if you have the same goals.
+If you want to build a giant company relatively quickly, in an emerging space where the market isn't mature enough to generate a lot of revenue early on, then VCs are the perfect partner.
+If you want to own 100 percent of a company and build it over twenty years, even if it's a fairly fast growing company, in a market where revenue is booked quickly and ideally where the revenue comes before you have to sell the product so you have nice cash flow to build a business from, then it'd be great to do it without VCs.
+If you want to build a business that generates $10 million a year in revenue and $2 million a year that goes to you and your partner, and that's what you're interested in, then you should figure out how to bootstrap.
+If you read the tech blogs, they converge into this idea that the only way to build a good company is a venture-backed company and it probably should be in Silicon Valley, but maybe it could be in New York or a couple other places, and no other company matters.
+That is clearly false.
+If you're a budding entrepreneur who wants to start a business, depending on the idea and depending on your temperament, it might be great for you to take VC money, or it might be terrible for you to take VC money.
+It just depends.
+I like to be working in sectors where there's no clear model to find yet, where things like social and mobile and online video or things that are still evolving so quickly that there's not a clear, stable business there yet.
+I like to be in the kind of places where things are being formed.
+I like growth-oriented companies.
+It's exciting to me to have a different job every year because the scale of the organization is different and the types of things that you're able to do are different and the kinds of problems you face are different.
+That's exciting to me, more than having a stable company.
+I like the dynamism of that.
+VC-backed is great.
+But it's not for everyone.
+For example - this is a totally different example - 4chan should not have been VC-backed.
+It's hard to know.
+It depends on what your goal is.
+At that stage, the site was a proof of concept for the technology.
+We were thinking of building a technology platform, and then the site was a proof of concept.
+We even had a conversation with The Washington Post about them using our technology to optimize The Washington Post.
+We had something called Buzz Bot, which would IM you links.
+We built something called the Trend Detector, which we crawled from Jason Kottke's blog to a bunch of different blogs.
+Then we would look to see acceleration of URLs being cited in blogs.
+Then that would show up on the Trend Detector.
+The format for the summary was, imagine you're at a cool party, you go up to someone and the first sentence is: Did you hear about X?
+If they haven't heard about it they kind of get it, and if they have heard about it, it doesn't take that long.
+That's the first sentence.
+The next one to four sentences were opinion or point-of-view or commentary or a joke or something.
+Sort of what you would say afterwards.
+Six or eight or ten links about degentrification or about this new kind of shoe, or this new kind of fashion, or this new idea.
+Some of them were more trend-spotting, and some of them were driven by this technology.
+That was the original BuzzFeed.
+We did five things a day.
+It was just these five things.
+In that memo I wrote about Time magazine and the history of media, that was the period when we were kind of similar to what Time was in the early days, which is: There were a few editors subscribing to lots of newspapers, reading the newspapers, and then summarizing them into a more digestible form in Time so that an intelligent reader with not that much time on their hands could quickly digest the important stories of the day.
+Peggy was just doing the equivalent.
+She was reading all these things on the Internet and using the Trend Detector, and then putting it in a very digestible format so that you could be informed of what were the trends happening on the Internet, what was propagating and getting shared across the Internet.
+She was a former computer programmer and wrote in a very clear language, but also had a sense of humor.
+That was the very first product.
+It wasn't really dogs on skateboards.
+In those days, it was more people, places, things that were trending, which often was news: the beauty queen losing her crown for some scandal.
+That was something that unexpectedly ended up being a top search result.
+Google used to take a week to index anything that was breaking news, and now they're doing it right away.
+Every day, they were learning from Peggy what the cool things were on the Internet and finding them, clicking through to them, and then that's what they would share.
+Then we started to have a really good understanding of what people share and why people share things and what stories are interesting.
+Oh, why don't we make our own?
+Why don't we make some of these things?
+Instead of just tracking culture, why don't we influence culture by making great entertainment, great news, and content that people want to share?
+Initially, it wasn't news, but making great things that people think are worth sharing and passing on to their friends.
+Not just serious editorial, but that took entertaining content seriously, and news content seriously, and had a more ambitious editorial mission.
+A more ambitious sense of what it means to make content, or make original content.
+It wasn't clear to me that Ben would generate a bunch of revenue through gravitas.
+It was really intellectually driven in the sense of I was trying to understand, and am still trying to understand, why certain ideas spread and other ideas don't spread, why certain things become popular, why other things become popular, other things don't become popular, how people learn, how people make decisions, and to use that knowledge to inform people and entertain people.
+Okay, the web is growing up.
+The social web is growing up.
+We need to grow up.
+And we need to add capacity to do all kinds of stuff that we're not doing now.
+There were things that we were able to do because we were very savvy with understanding the structure of the social web, and because we had reporters.
+We could wade through Reddit and Instagram with more knowledge than a lot of traditional publications, but we also had reporters on the ground interviewing people, which was something that a lot of the pure web companies didn't have.
+From that point, we said, Okay, we see that breaking news is going to be a bigger part.
+Not just people coming via Twitter, but people coming to BuzzFeed for news, particularly when there's big news.
+Now we have two people in the Ukraine.
+We are still at the beginning of the investment in news, but it really started as breaking political scoops and earning the respect of insiders, to then having younger people coming to us for their news, to now expanding into a broader news mission.
+We're definitely making a big investment in news.
+It is generating considerable attention and traffic and influence.
+I think you'll see more of it.
+We do a lot of testing and we look at lots of metrics, but ultimately the raw material is people coming up with creative ideas.
+We have lots of meetings with five or six people siting in a room brainstorming about what they could create.
+You have a lot of reporters saying like, Oh, what stories are we going to cover?
+None of that is directly tied to any metrics.
+Although having seen what people's response is in the past, it actually might give people a gut feeling.
+I'm trying to think how to describe this.
+It's not that we celebrate maximizing the metrics.
+We want the stuff we do to reach the maximum audience it should reach, no less and no more.
+If we make a wonky political scoop, we want every political wonk to read it.
+If we make Which state should you actually live in, we want everyone who lives in a city to read it.
+Most A/B testing is just user experience.
+Is this page loading fast?
+Do the share buttons work well?
+It's not A/B testing the content, it's A/B testing the site and the platform.
+When we have something that's a hit, usually our response is not: Let's do more of those.
+Our response is: Let's figure why this is a hit and make variations of this.
+This was successful because it was tied to someone's identity, it was successful because it had cats in it, or it was successful because it had humor, or it was successful because it tapped into nostalgia.
+If you're making entertainment content, which is a big part of what we do, you look at that hit and you say: Why was that successful? Can I do it again?
+Can I make something else that people really love and want to share?
+And you try to vary it, even though you know doing something derivative would work.
+Long term, you want to have a deeper understanding of how to make great things.
+That's really the focus.
+That comes from people in a room talking and saying, Oh, let's try this, let's try that.
+And valuing people doing new things, not just valuing people doing big things.
+You see a very massive skew between different items.
+A problem I think in people writing about the media now is that people take averages and then they make statements like, The average piece of branded content gets this many Facebook shares; or The average longform story gets this many views.
+Everything is just very skewed.
+When you say barbelled, it depends on what the graph is.
+But if you rank things in order of whatever the metric is and then you do a graph, it's always this very skewed distribution.
+I feel like what you see in the industry now is people jumping around and trying to find the God metric for content.
+It's all about shares or it's all about time spent or it's all about pages or it's all about uniques.
+The problem is you can only optimize one thing and you have to pick, otherwise all you're doing is making a bunch of compromises if you try to optimize for multiple things.
+So you pick the one that matters and maybe you have minimum thresholds for a few others.
+The problem with that is that the natural inclination, if one metric is seen as the important, true metric, is to game it.
+And then when you game it, you essentially are creating a fake version of that metric.
+So page views are a metric of how many stories people want to read-and then you split the story in two.
+You essentially are doubling your pages for that story, or not quite, probably, because not everyone will click.
+But you create pyrite page views.
+If you're looking at clicks, if there's a story that says Malaysian airliner, new developments, and you want to know about new developments in that story and you read the story and there's a new development, then you're happy and the click rate is actually pretty accurate.
+If you click and there's actually no new developments or the story is actually about something else?
+So the bigger issue is not which metric is the most important metric.
+You'll see some sites talking about time as being the metric.
+He said Upworthy were switching.
+The challenge there is that, like you said, if you create a long, meandering, boring story that's just good enough to keep people reading, they might spend more time on that story than the short, condensed one that just tells you what you need to know.
+If you use time on that one, it will tell you to do the wrong thing.
+One of the reasons reality TV became so dominant was because people looked at time as being the metric.
+And the reason that reality TV works well for time is that the classic reality TV formula, in the beginning, was the tribal council and somebody getting eliminated.
+So you could have 50 percent of the show being boring filler and you're kind of wanting to change the channel but you're like, Oh, but I wonder if my favorite person's going to get eliminated.
+So you have to watch to the end to see the elimination.
+In a way, that was a way of gaming time.
+You could look at that and say, Oh, they spent an hour watching this show, including the commercials.
+That means it must be a really high quality show.
+But it also might just mean that they figured out a hook that incentivizes you to watch to the end and then did a lot of mediocre content in the middle.
+So there's not going to be one metric that you look at.
+I love metrics and I love thinking about optimization, but I think that the optimal state is being slightly suboptimal because as soon as you try to actually optimize, particularly for a single metric, you end up finding that the best way to optimize for that metric ends up perverting the metric and making the metric mean the opposite of what it used to mean.
+I don't know that there is a list of like: These are things we don't do.
+I think there's some cases where it's clear that someone is trolling for attention and they have fabricated some hoax story that is designed to get picked up everywhere and are pitching it to every editor of BuzzFeed and we send an internal email saying, Don't pick this up, Nobody touch this, Don't get tricked by this person.
+Even though you could just-there's lots of sites who will run that story and get a lot of traffic.
+We also have our no-haters orientation.
+We tend to be enthusiastic and we tend to avoid snarky articles about mediocre things.
+It's not like there's some hard rule.
+In general, we tend to avoid a post that is designed to make the author feel smart and superior and the reader to vicariously feel smart and superior because a Hollywood film is mediocre or because something in culture is mediocre.
+If there's something that is worth someone's time that is interesting and is worthy of being excited about, we should cover that.
+If there's an egregious miscarriage of justice or corruption or fraud or something that needs to be investigated, those are both strong things.
+In the middle, there's a lot of things that are kind of a waste of time.
+Mediocre things that you can write cynical comments about.
+Well, particularly with reporters it matters a lot, but even with people making entertainment content.
+The idea that we are making a quiz that involves characters from a TV show, and then we are also pitching business to market that TV show-it creates a conflict of interest.
+If you put the consumer first and you say, We want to make stuff that people love, then the editorial team should not have to stress or worry about the business side at all.
+They should just make stuff that they think consumers will love.
+That's why the wall's important, but when it comes to platform and technology then there isn't a wall.
+It goes across the whole organization and company.
+When you abstract away from a particular piece of the content to how do we serve the content, and how do we optimize the content, what formats are there, that's stuff where you want to make great formats for people whether it's for a piece of branded content or whether it's editorial content.
+There's not a wall when it comes to things like data science and product and tech.
+Some of what you were describing earlier about digital publishers being small relative to the traditional media and relative to television, actually it's because early-stage digital publishers have stayed too close to print.
+They look like print.
+Their basic unit is the same kind of article structure.
+Some of them might be shorter or longer, but the front page is programmed almost like a newspaper.
+The formats of the articles are more like a newspaper.
+And it's like, Oh, let's add a little video, but when they add video it's like they are trying to be TV, but it's not quite as good as regular TV.
+The way to break through and to make something that can actually scale into something big is just to say: What would this be if the readers and the publishers were not focused on making something similar to print?
+If they said, instead: What should this be if mobile is the most important thing; if things can be more visual; if things can be more shareable; if length can be anywhere from 140 characters to 12,000 words?
+In that kind of world, where things can be interactive, like quizzes-in that kind of a world, what should a media company be?
+I think if people can figure that out, they can build really big businesses.
+If you look at the branded content that you were just describing - the informative kind of branded content - it's often like a special advertising section, and it's the kind of thing that reads like a magazine article and it's always like a page long and feels so of the world of print; whereas so much of BuzzFeed is sort of scrolling on a smartphone and that's the best way to consume it.
+Publishers should figure out how to re-invent what the informative branded content would be.
+We've had some success with list formats that are very informative.
+In a grand sense it needs to move away from mimicking print to doing what is natural for the web.
+When BuzzFeed started, people would ask me for expertise a lot because of the Nike email, the Rejection Line, Black People Love Us.
+It was, Oh, you have this expertise on how to make things go viral - make my things go viral.
+Part of the idea of BuzzFeed from the beginning was can we get to the point where the platform is more valuable than the expertise?
+If you actually have an idea or an insight into how things are shared or why they're shared or what works, can you build that into either the technology platform or the data science or the culture of a team of people?
+Or build an audience that reads the site and engages with the site in a certain way that it gives you an advantage to be able to launch something that will take off?
+If you can do that, that's like much better than being a consulting team where you drone on about, This is why something goes viral, that's why something goes viral.
+A lot of the focus that we've had is to figure out do we really know something, and then how do we build that into a platform and how do we build that into a process?
+If someone said to me, Help me market a movie, or help me market a new product, but just do it as a consultant, I would do a much worse job and there would not be as much that I could do as if I said, Let's do a partnership with BuzzFeed.
+Because when they do a partnership with BuzzFeed they get a big audience.
+They get reach, there's technology, there's different formats, there's people that have lots of creative ideas that I wouldn't have come up with that work at the company - and all those things together will result in a much better marketing campaign for an advertiser than if I was just peddling expertise.
+I think the expertise matters, but the expertise needs to find its way into a platform.
+And also having reach makes a huge difference.
+Yes.
+We could just put a bunch of ad networks on our site and lay off our business team, and we'd be a much less interesting business.
+It's one of the reasons why there was some benefit to struggling to raise money in the early days, and trying lots of things, and experimenting in lots of different directions.
+We learned a lot during that period.
+I think it's hard when you see certain companies that they launch and six months after they launch they get this crazy hockey stick and their service is huge.
+Then they're running this huge thing and they're not sure why it works or how it works.
+It's hard to experiment when you have tens of millions of users.
+Well, at HuffPost I remember there was a very talented editor who now works at the Daily Mail who figured that out.
+You could show a picture of like an older guy at the beach and be like, Guess whose body this is?
+Then you click and it's like, Oh it's Giorgio Armani or whatever, and you could get a tremendous click-through rate on headlines that didn't tell you what the story is about.
+The problem with that is that if you're just getting clicks that would have gone to another headline on your front page, it's sending people the content that might not be as good, because they're clicking because they want to know what's there.
+They're not clicking because they're interested in what's there.
+If they knew that it was Giorgio Armani - if you just did a post saying, Here's a picture of Giorgio Armani on the beach - people who care about that sort of thing would click and people who didn't wouldn't.
+You end up with lots of people who don't actually want to see Giorgio Armani in a Speedo on the beach clicking that and then feeling like, Oh god, why did I do that?
+Like, That was a waste of time.
+The main problem for us is that when you think from the perspective of the reader, if headlines are all devoid of information and you have to click them to find out what they are about, all the social streams out there would become much less useful and much less valuable.
+When you think from that perspective it's like, Whoa, let's just make headlines that describe what's in the article and that's better for the consumer and it's better for the ecosystem as a whole.
+Then let's make articles that people really want to click because they're interested in them, not because they're wondering what it's about.
+Then in some rare cases there's something that say is impossible to describe and beautiful and weird.
+You might say: This is beautiful and weird and you have to see it to understand it, and in that scenario that's not really anything else you can do.
+John wrote a piece saying the Internet provides many headlines for every article, sometimes better than what the author wrote, and that there just shouldn't be headlines on articles.
+Headlines are generated on Twitter and all these different places and it is something that we think a lot about.
+What do people add to a story when they share it?
+In some cases it's better than the headline that our team wrote and in some cases shows why content matters to them.
+Because you say, I'm sharing this and explain why you're sharing it.
+Well, partly it's that secret ideas rarely work.
+Coming up with some brilliant secret idea and then launching it and having it work the way we planned, that would be nice if that happened, but that essentially never happens anywhere.
+Maybe it happened with a string of Apple product releases that Steve Jobs was able to pull off-and was that a rare genius or was it luck or was it both?
+It's hard to say, but it's not a good model to operate a business on for most people.
+Sometimes you see people who say ideas don't matter.
+Some VCs say it's all about execution.
+There are other search engines and Google beat them and there were other social networks and Facebook beat them and it's all about execution and ideas don't matter.
+Sometimes you see people saying, When did you come up with the idea for BuzzFeed, and, like, Wow how did you come up with that idea?
+And I'm like, I don't even know what you're talking about, I don't know what idea you mean because there was a space that we were exploring and there's a constellation of related ideas.
+Being able to generate new ideas that help improve what you're doing is really important for a company, but the execution is also super important.
+It's possible that it becomes more important as we get bigger, but for almost every startup the competition doesn't really matter that much.
+The competition matters usually at the level of public companies or larger companies where they're starting to bump up into the total size of the market.
+Then maybe the market's growing at 6 percent or 10 percent a year and there's competitors in there.
+There is an emerging space-it's unclear how big the space is going to be if you think on the ad side.
+If you think the kind of advertising were doing, we have a good leadership position.
+It is less about competing against another company and it's more about building a larger ecosystem and making something sustainable.
+That could mean that it's better for Vice and Vox to thrive because it starts to create a new guard of ambitious purely digital companies that will help transform the landscape.
+When they have conversations with brands and talk about how you can do big things in video and big things online and big things in social, that helps shift the budget into a larger market that we are in.
+That's a good thing for us.
+I don't know what research they do, but I think they do take it pretty seriously.
+And I think that you can get to a certain level with smoke and mirrors, but if you don't have something real I don't think you get into the hundreds of millions of revenue.
+They have a very strong and clear brand and even when the brand has moved and evolved it's been very consistent at any given time.
+They're very good at making content for a particular consumer that is not as broad a mainstream consumer as BuzzFeed or more pop kind of site, but that there is certain people who are obsessed with what Vice does.
+I have met a young person who knew all their videos and were like, It's so badass and I can't believe they did this.
+If you watch their stuff, it's good quality.
+To me it's, like, more motivating to see other people doing good stuff.
+If you're in a space where everything sucks and you're pointing to another competitor and saying, Oh, look at how terrible they are, then how does that motivate you to do good work?
+I think you look at Vice and you say wow.
+You can watch some of the documentary video that they've made and say they understand what they're doing.
+They have a clear brand and they're telling a good story.
+One big difference is international, and another big difference is video.
+BuzzFeed UK is a decent size operation now.
+We are close to a billion video views in the first 14 months of BuzzFeed Video being done.
+What Ze is building there has really been interesting and changing, so video is becoming a bigger and bigger part of the business.
+The ability to do lots of things at once has increased.
+It used to be that we could only really do one thing at once and now we're doing many things in parallel.
+Managing that is challenging, but there's so much more we're able to do.
+The biggest concrete things are video and international.
+Then the mobile app-it's just growing.
+It's grown over 400 percent in the last year.
+It's more and more consumption happening on mobile.
+Those are the biggest shifts.
+The basic revenue model is having an understanding and a technology platform for the distribution of social content.
+That model will be the same.
+We'll be more on mobile, we'll be more video, it'll be more international, but the general model will be that brands become more like publishers and the best guide for them is a publisher-that really has a deep understanding of how this stuff works, and has a technology to support it; that if they want to go deep with someone to really take branding content to the next level, it should be us.
+That's sort of the plan.
+Too rah-rah for you? Too American?
+Would you rather work for someone who's cynical, or someone who earnestly believes in what they're doing?
+I don't think we take ourselves that seriously.
+I think the challenge is how do you be humble about what you know, because there's nobody to learn from if you're arrogant.
+And at the same time, be ambitious and say, We're going to try to do big things.
+They're kind of at odds, but I feel like the best way to operate in a fast-growing startup is to be able to do both.
+It is a tricky balance.
+I just think people having fun and people who are enjoying their work and people who are laughing about what they're doing and feeling like you can make a mistake and it's not like you get yelled at or you get fired, are all pretty important.
+And underappreciated by a lot of companies.
+The Internet is certainly not an afterthought.
+If you include all the Googles and Facebooks and social platforms and tech companies.
+I think in terms of revenue.
+Certainly in terms of market cap of the company.
+Facebook has a bigger market cap than the biggest media company.
+Google has a bigger market cap than Facebook, and if that's a vote on the future of the industry I don't think the web is going to be an afterthought.
+The question, though, I think you're asking, more specifically, is content companies or people creating content, news, and entertainment on the Internet.
+Already in terms of scale of audience, BuzzFeed reaches more people each month than MTV or Comedy Central or a lot of the big cable networks.
+The amount of time people spend on television is still much higher.
+We reach a lot of people, but they don't spend as much time on BuzzFeed as they spend watching reality shows on Bravo or something.
+Depending on whether you measure by time or unique audience, we're bigger by unique audience and they would be bigger by time, but I think we're seeing a crop of significant businesses that are built on the web or primarily on the web.
+Whether it's Vice or BuzzFeed or Vox Media or Hulu, which is a kind of hybrid kind of thing, or Netflix.
+It's another one where there's starting to be companies that are in the media space that don't own cable boxes and don't own broadcast pipes and transmission towers or any of the infrastructure of the industrial media age, and that are purely or primarily in the digital space and are doing real revenue.
+I think you'll see that trend continue.
+It's hard to predict the future, but it doesn't feel to me like the space of web publishers or web content is going to just be the cheaper faster version with low rates and low margins-maybe a good business, but a small business.
+I think we're going to get past that.
+At least that's what we're betting on.
+Well, I think you've seen them under the same roof in a lot of other places too.
+MTV did a lot of this in the early days of MTV, where they would work with brands and do integrated stuff.
+Meredith Publications makes a lot of branded content and has whole kitchens and facilities to make great spreads for brands.
+It's not paranoid to think that the audience watching broadcast television is old.
+And it's not paranoid to think people, particularly young people, are spending a lot of time on their phones and a lot of time on the Internet.
+It's accurate to say that media consumption is changing in a pretty dramatic way and that if your marketing stays the same you essentially will be marketing to people who are consuming media the way people consumed media ten years ago instead of the way they're consuming today.
+I think in general it's like life is tricky because it happens once and there's no opportunity for A/B testing.
+It could be that you are living your best possible life and that if you re-play Felix Salmon's life hundreds of other times, that this life you're living is the best or among the top 5 percent of lives that you would have lived, and in lots of other ones you'd end up in an alley or in an unhappy relationship or with a job where you're not intellectually fulfilled, and that you have found this amazing path.
+It's also possible that you're not even in the top 50 percent of lives and that your life is really tragic and that despite all the wonderful and impressive and amazing things you've done, that you had the potential to do all these incredible other things that would have been either bigger in scale or more fulfilling or more modest and simple, but more pleasurable or whatever.
+That there were all these other paths that would be better.
+It's, I think, hard to say whether there is something I missed that would have made things much better.
+In general, I'm pretty happy, and all these imagined alternate lives, I wouldn't know how to even begin to speculate on how they'd compare.
