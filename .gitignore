@@ -66,3 +66,6 @@ frontend/dist/
 
 # Polly's bullshit which should be in a database
 markov_scores
+
+# Heroku does not like autoenv
+.env
