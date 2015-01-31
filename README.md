@@ -17,23 +17,11 @@ The Jonah Peretti Quote Generator
   $ ./manage.py syncdb
   ```
 
-3. Globally install bower, browserify and watchify:
-
-  ```
-  $ npm install -g bower browserify watchify
-  ```
-
 4. Install npm packages:
 
   ```
   $ cd frontend
   $ npm install
-  ```
-
-5. Install bower packages:
-
-  ```
-  $ bower install
   ```
 
 ## Running the server:
