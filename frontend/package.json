@@ -18,17 +18,19 @@
     "prebuild": "npm run clean -s && mkdir -p dist",
     "build": "npm run build:install -s && npm run build:bundle",
     "build:install": "./node_modules/.bin/bower install",
-    "build:bundle": "./node_modules/.bin/grunt",
+    "build:bundle": "./node_modules/.bin/browserify -d app/main.js -o dist/main-built.js",
     "watch": "npm run build && ./node_modules/.bin/watchify app/main.js -o dist/main-built.js"
   },
   "dependencies": {
     "rimraf": "~2.2.8",
     "bower": "~1.3.12",
     "watchify": "~2.3.0",
-    "grunt": "~0.4.5",
-    "grunt-cli": "~0.1.13",
-    "grunt-browserify": "~3.3.0",
     "browserify": "~8.1.2",
     "debowerify": "~1.2.0"
+  },
+    "browserify": {
+    "transform": [
+      "debowerify"
+    ]
   }
 }
