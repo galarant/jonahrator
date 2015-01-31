@@ -14,7 +14,7 @@ class Command(BaseCommand):
         os.chdir(frontend_path)
         os.system('npm run build')
         os.chdir(frontend_path + '/..')
-        os.system('./manage.py runserver 80')
+        os.system('gunicorn jonahnator.wsgi --log-file -')
 
         # restore current working dir
         os.chdir(base_path)
