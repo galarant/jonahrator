@@ -1,3 +1,4 @@
 Django>=1.7.0
 django-debug-toolbar
 nltk==3.0.1
+gunicorn==19.2.0
