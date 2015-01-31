@@ -1,5 +1,5 @@
-require('angular');
-require('angular-route');
+require('../bower_components/angular/angular.js');
+require('../bower_components/angular-route/angular-route.js');
 require('./app.js');
 require('./routes.js');
 require('./controllers/home.js');
