@@ -28,16 +28,16 @@ a:hover {
   font-size: 7vmax;
   line-height: 98%;
   display: block;
-  max-width: 89%;
+  max-width: 85%;
 }
 
 .navbar {
   display: block;
   position: absolute;
   top: 20px;
-  right: 0px;
+  right: 3%;
   height: 100%;
-  width: 10%;
+  max-width: 10%;
 }
 
 .about {
@@ -52,7 +52,7 @@ a:hover {
 
 .navbar_share_img {
   text-align: right;
-  right: 30px;
+  right: 1%;
 }
 
 .footer {
@@ -66,7 +66,7 @@ a:hover {
 .btn {
   color: inherit;
   background: inherit;
-  font-size: 18px;
+  font-size: 3vmax;
   cursor: pointer;
   outline: none;
   padding: 10px 20px 10px 20px;
