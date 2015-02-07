@@ -25,6 +25,8 @@ function HomeCtrl($http) {
 
   self.changeColor();
 
+  self.testVar = 'foobar';
+
 }
 
 angular.module('Jonahrator').controller('HomeCtrl', ['$http', HomeCtrl]);
