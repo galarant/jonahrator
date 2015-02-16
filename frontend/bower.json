@@ -2,10 +2,12 @@
   "name": "jonahnator",
   "version": "0.0.1",
   "dependencies": {
-    "bootstrap": "latest",
-    "font-awesome": "latest",
+    "font-awesome": "~4.3.0",
     "animate.css": "latest",
     "angular": "latest",
-    "angular-route": "latest"
+    "angular-route": "latest",
+    "bootstrap": "~3.3.2",
+    "startbootstrap": "*",
+    "jquery": "~2.1.3"
   }
 }
