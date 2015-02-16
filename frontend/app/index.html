@@ -11,6 +11,12 @@
 
     <title>startup ceo</title>
 
+    <!-- Custom CSS -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/static/styles/home.css">
+
     <!-- Bootstrap Core CSS -->
     <link
       rel="stylesheet"
@@ -107,8 +113,12 @@
               <h1
                 ng-bind="quote.quote">
               </h1>
-              <a href="#about" class="btn btn-circle page-scroll">
-                  <i class="fa fa-angle-double-down animated"></i>
+              <a
+                href="#page-top"
+                class="btn btn-default btn-lg"
+                style="color: #fff; border: 1px solid #fff"
+                ng-click="quote.getQuote()"> <!-- TODO: implement SCSS to inherit Bootstrap styles -->
+                NEXT QUOTE
               </a>
             </div>
           </div>
