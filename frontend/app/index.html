@@ -111,13 +111,17 @@
       style="background: url(static/public/images/not_detected.jpg) no-repeat bottom center scroll;"
       ng-controller="QuoteCtrl as quote">
       <div class="intro-body">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-8 col-md-offset-2">
+        <div class="container" style="display:table; padding-left:0px; padding-right:0px;">
+          <div class="row" style="display:table-row; height:200px;">
+            <div class="col-md-8 col-md-offset-2" style="display:table-cell; float:none;">
               <div ng-show="loading" class="loading"><img src="https://apps.nea.gov/grantsearch/images/ajaxSpinner.gif" height=50 width=50 alt="LOADING..." /></div>
               <h1
                 ng-bind="quote.quote">
               </h1>
+            </div>
+          </div>
+          <div class="row" style="display:table-row;">
+            <div class="col-md-8 col-md-offset-2" style="display:table-cell; float:none;">
               <a
                 href="#page-top"
                 class="btn btn-default btn-lg"

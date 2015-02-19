@@ -8,7 +8,7 @@ require('./controllers/home.js');
 require('./controllers/quote.js');
 
 
-//core grayscalse JS hacked in because it has a Google Maps dependency that we don't want
+//core grayscale JS hacked in because it has a Google Maps dependency that we don't want
 
 /*!
  * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
