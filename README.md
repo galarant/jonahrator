@@ -1,4 +1,4 @@
-# jonahnator
+# jonahrator
 The Jonah Peretti Quote Generator
 
 > “It is possible to build a tech company in New York that has really good snacks.”
